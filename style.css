@@ -95,3 +95,28 @@ a:hover {
   }
 
 }
+article {
+  max-width: 620px;
+}
+
+article h2 {
+  margin: 0 0 40px;
+
+  font-size: 32px;
+  font-weight: 500;
+  line-height: 1.05;
+  letter-spacing: -0.035em;
+}
+
+article p {
+  margin: 0 0 1.5em;
+  line-height: 1.6;
+}
+
+.post-date {
+  margin-bottom: 28px;
+
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+}
