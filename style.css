@@ -101,7 +101,7 @@ article {
 article h2 {
   margin: 0 0 40px;
 
-  font-size: 32px;
+  font-size: 18px;
   font-weight: 500;
   line-height: 1.05;
   letter-spacing: -0.035em;
@@ -115,7 +115,7 @@ article p {
 .post-date {
   margin-bottom: 28px;
 
-  font-size: 11px;
+  font-size: 12px;
   font-weight: 700;
   letter-spacing: 0.08em;
 }
