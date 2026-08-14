@@ -23,10 +23,14 @@ body {
 }
 
 .site-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
   margin-bottom: 120px;
 }
 
-.site-header h1 {
+.site-header h1,
+.site-header a {
   margin: 0;
 
   font-size: 14px;
