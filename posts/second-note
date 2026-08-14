@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>First Note — 73 St Leonards</title>
+
+  <link rel="stylesheet" href="../style.css">
+  <link rel="icon" href="../favicon.svg" type="image/svg+xml">
+</head>
+
+<body>
+
+  <main class="page">
+
+    <header class="site-header">
+      <h1><a href="../index.html">73 St Leonards</a></h1>
+      <a href="../about.html">About</a>
+    </header>
+
+    <article>
+
+      <p class="post-date">15.08.2026</p>
+
+      <h2>Second Note</h2>
+
+      <p>
+        This is the second note.<br>I'll delete this later.
+      </p>
+
+    </article>
+
+  </main>
+
+</body>
+
+</html>
