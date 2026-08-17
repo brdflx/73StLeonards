@@ -119,3 +119,30 @@ article p {
   font-weight: 700;
   letter-spacing: 0.08em;
 }
+
+sup {
+  font-size: 0.7em;
+  vertical-align: super;
+}
+
+sup a {
+  text-decoration: none;
+}
+
+.footnotes {
+  margin-top: 64px;
+  padding-top: 24px;
+  border-top: 1px solid #111;
+
+  font-size: 13px;
+  line-height: 1.5;
+}
+
+.footnotes li {
+  margin-bottom: 12px;
+}
+
+.footnote-back {
+  margin-left: 4px;
+  text-decoration: none;
+}
