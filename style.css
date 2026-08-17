@@ -1,3 +1,11 @@
+@font-face {
+  font-family: "Inter";
+  src: url("fonts/InterVariable.woff2") format("woff2");
+  font-weight: 100 900;
+  font-style: normal;
+  font-display: swap;
+}
+
 * {
   box-sizing: border-box;
 }
@@ -9,7 +17,7 @@ html {
 
 body {
   margin: 0;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: "Inter", Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.4;
   -webkit-font-smoothing: antialiased;
@@ -106,9 +114,6 @@ a:hover {
     margin-bottom: 80px;
   }
 
-  .posts a {
-    font-size: 21px;
-  }
 
 }
 article {
