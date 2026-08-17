@@ -29,6 +29,23 @@ body {
   margin-bottom: 120px;
 }
 
+.header-nav {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 5px;
+}
+
+.header-nav a {
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 1;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+
+
 .site-header h1,
 .site-header a {
   margin: 0;
